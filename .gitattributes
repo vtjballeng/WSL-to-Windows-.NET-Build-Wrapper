@@ -1,0 +1,6 @@
+###############################################################################
+# Shell scripts and WSL compatibility
+# These files must have LF line endings for proper execution in WSL/Linux
+###############################################################################
+*.sh text eol=lf
+*.bash text eol=lf
